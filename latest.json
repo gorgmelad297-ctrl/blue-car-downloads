@@ -2,11 +2,11 @@
   "schema_version": 1,
   "release": {
     "version_name": "1.0.3",
-    "version_code": 102031,
+    "version_code": 104032,
     "released_at": "2026-11-15",
-    "size_bytes": 41085046,
-    "sha256": "8b739bf0d682010a816cf30e489d52cfe3c85c5760d19deeb2f7832050186af6",
-    "notes": "إصدار رسمي محدث 1.0.3 يشمل التصميم الجديد والأنيميشن وكرت الزيت",
-    "apk_url": "https://github.com/gorgmelad297-ctrl/blue-car-downloads/releases/download/android-102031/BlueCar-Android-102031.apk"
+    "size_bytes": 41930081,
+    "sha256": "9c63b175ee4b00d432426e6141955826e4a793828b1091ab4a14196773df25fd",
+    "notes": "إصدار رسمي نظيف 1.0.3 مسار دخول حقيقي بدون بيانات وهمية مع الأنيميشن",
+    "apk_url": "https://github.com/gorgmelad297-ctrl/blue-car-downloads/releases/download/android-104032/BlueCar-Android-104032.apk"
   }
 }
