@@ -2,11 +2,11 @@
   "schema_version": 1,
   "release": {
     "version_name": "1.0.3",
-    "version_code": 104032,
+    "version_code": 104033,
     "released_at": "2026-11-15",
-    "size_bytes": 41930081,
-    "sha256": "9c63b175ee4b00d432426e6141955826e4a793828b1091ab4a14196773df25fd",
-    "notes": "إصدار رسمي نظيف 1.0.3 مسار دخول حقيقي بدون بيانات وهمية مع الأنيميشن",
-    "apk_url": "https://github.com/gorgmelad297-ctrl/blue-car-downloads/releases/download/android-104032/BlueCar-Android-104032.apk"
+    "size_bytes": 109154790,
+    "sha256": "bf9e1134fce9b8762248b549699a000f28d518859a00f09b91b90e028ea943d3",
+    "notes": "BLUE CAR Android 1.0.3 (Build 104033) Universal Clean Release - Full Cyber-Luxury Experience, Auth Flow Verified, Zero False Positives",
+    "apk_url": "https://github.com/gorgmelad297-ctrl/blue-car-downloads/releases/download/android-104033/BlueCar-Android-104033.apk"
   }
 }
