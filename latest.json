@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "release": {
-    "version_name": "1.0.0",
-    "version_code": 100023,
-    "released_at": "2026-11-10",
-    "size_bytes": 106078862,
-    "sha256": "195e9a2937353a14653347586d06ad369060d598bcafc85d8d982b0bd1ba0b89",
-    "notes": "نسخة بلو كار التجريبية للأندرويد. تشمل واجهة المالك وبطاقة الزيت وسجل الصيانة.",
-    "apk_url": "https://github.com/gorgmelad297-ctrl/blue-car-downloads/releases/download/android-100023/BlueCar-Android-100023.apk"
+    "version_name": "1.0.3",
+    "version_code": 102031,
+    "released_at": "2026-11-15",
+    "size_bytes": 41085046,
+    "sha256": "8b739bf0d682010a816cf30e489d52cfe3c85c5760d19deeb2f7832050186af6",
+    "notes": "إصدار رسمي محدث 1.0.3 يشمل التصميم الجديد والأنيميشن وكرت الزيت",
+    "apk_url": "https://github.com/gorgmelad297-ctrl/blue-car-downloads/releases/download/android-102031/BlueCar-Android-102031.apk"
   }
 }
